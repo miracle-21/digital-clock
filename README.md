@@ -8,6 +8,7 @@ body태그에서 height: 100vh 설정.
 스크롤바가 사라지지 않는 문제가 생김.   
 margin=0; 을 추가해주니 스크롤바가 사라짐. 이전에는 margin 높이때문에 스크롤바 아래까지 적용됨.
 
+
 ### 수정사항
 1.box-sizing : 적용한 너비가 실제 시계의 너비로 정하기 위해 class가 'dayTime'인 요소에 border-box 추가.
 
